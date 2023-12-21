@@ -1,2 +1,2 @@
-# HTML---CapStone-Project-1
-My Resume website using html.
+CapStone Project 1
+
